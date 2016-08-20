@@ -1,0 +1,21 @@
+body {
+  margin-top: 40px;
+}
+
+.center-block {
+  float: none;
+  margin: 0 auto;
+}
+
+#search-box {
+  display: inline-block;
+  width: 70%;
+}
+#search-btn {
+  width: 25%;
+}
+
+.title-col {
+  vertical-align: top;
+  font-weight: bold;
+}
